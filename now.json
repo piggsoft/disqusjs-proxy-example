@@ -2,7 +2,7 @@
     "version": 2,
     "name": "disqusjs-proxy",
     "alias": [
-        "disqusjs-proxy-example-one.vercel.app"
+        "disqusjs-proxy-example-piggsofts-projects.vercel.app"
     ],
     "routes": [
         {
